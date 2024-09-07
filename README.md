@@ -50,8 +50,8 @@
 
 ## 📫 How to Reach Me
 
-- 💬 Feel free to reach out via email: sourav@example.com
-- Connect with me on [LinkedIn](https://www.linkedin.com/) (add your LinkedIn link here)
+- 💬 Feel free to reach out via email: ghoshsourav86825@gmail.com
+- Connect with me on [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav/) (add your LinkedIn link here)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Hacker-Sourav/Hacker-Sourav/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-
+-->
