@@ -52,6 +52,8 @@
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Hacker-Sourav/)
 
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME?theme=dark)](https://leetcode.com/Hacker-Sourav/)
+
 ---
 
 ## 📫 How to Reach Me
